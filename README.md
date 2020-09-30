@@ -2,5 +2,5 @@
 
 ### Hi there 👋
 
-- 🔭 Work on [Maimemo](https://www.maimemo.com/)
+- 🔭 Working on [Maimemo](https://www.maimemo.com/)
 - 🌱 Focusing on Swift & iOS
